@@ -1,0 +1,172 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Jost", sans-serif;
+}
+
+body {
+    background-color: rgb(11, 11, 12);
+}
+
+.headcontain {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    margin: 15px;
+    width: 500px;
+    border-radius: 100px;
+    padding: 15px;
+    border: 1px solid rgb(100, 100, 100);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(11, 11, 12);
+}
+
+div.sticky {
+  position: sticky;
+  top: 0;
+}
+
+.navlink {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 100px;
+    transition: 500ms;
+}
+
+.navlink:hover {
+    color: rgb(199, 199, 199);
+}
+
+.logo {
+    width: 150px;
+    transition: 500ms;
+}
+
+.navbtn {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(233, 206, 53);
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 550px) {
+  .logo {
+    width: 100px;
+  }
+  .navbtn {
+    padding: 0;
+    background-color: rgba(39, 39, 39, 0);
+    color: rgb(233, 206, 53);
+  }
+}
+
+.nosel {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+.main-s {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+.content-main-s {
+    max-width: 50%;
+    margin: 5px;
+}
+.holy-pic {
+    max-width: 200px;
+}
+
+.flex > * {
+  flex: 1;
+  min-width: 400px;
+}
+
+.margin6 {
+    margin: 80px auto;
+}
+
+.map {
+    width: 100%;
+}
+
+.hcmap {
+    margin: 20px;
+    width: 95%;
+}
+
+.cont-text {
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgfoot {
+    margin: 10px;
+    width: 30px;
+}
+
+.card-cont {
+    margin: 20px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+@media only screen and (max-width: 500px) {
+  .card-cont {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+}
+
+.c-card > a > img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.c-card {
+    background-color: rgb(22, 22, 22);
+    border-radius: 20px;
+    padding: 10px;
+    transition: 500ms;
+}
+
+.c-card:hover {
+    background-color: rgb(39, 39, 39);
+}
+
+.t-card {
+    color: white;
+    text-decoration: none;
+}
+
+.owner {
+    color: rgb(139, 139, 139);
+}
