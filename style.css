@@ -52,6 +52,10 @@ div.sticky {
     transition: 500ms;
 }
 
+.logosm {
+    display: none;
+}
+
 .navbtn {
     padding-left: 20px;
     padding-right: 20px;
@@ -70,6 +74,21 @@ div.sticky {
   }
 }
 
+@media only screen and (max-width: 425px) {
+    .logo {
+        display: none;
+    }
+    .logosm {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .navbtn {
+        display: none;
+    }
+}
+
 .nosel {
   -webkit-user-select: none; /* Safari */
   -ms-user-select: none; /* IE 10 and IE 11 */
@@ -77,7 +96,7 @@ div.sticky {
 }
 
 .main-s {
-    width: 100%;
+    max-width: 100%;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
@@ -86,8 +105,7 @@ div.sticky {
 }
 
 .content-main-s {
-    max-width: 50%;
-    margin: 5px;
+    margin: 10px;
 }
 .holy-pic {
     max-width: 200px;
@@ -103,22 +121,22 @@ div.sticky {
 }
 
 .map {
-    width: 100%;
+    max-width: 100%;
+    margin: 20px;
 }
 
 .hcmap {
-    margin: 20px;
-    width: 95%;
+    width: 100%;
 }
 
 .cont-text {
     text-align: center;
     color: white;
     padding: 10px;
+    max-width: 100%;
 }
 
 footer {
-    width: 100%;
     text-align: center;
     padding: 20px;
     color: white;
@@ -126,6 +144,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    max-width: 100%;
 }
 
 .imgfoot {

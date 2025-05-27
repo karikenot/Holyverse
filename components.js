@@ -5,6 +5,7 @@ class THeader extends HTMLElement {
       <div class="headcontain sticky">
         <header class="nosel ">
         <a href="/index.html"><img src="assets/img/logo.png" alt="Logo Holyverse" class="logo"></a>
+        <a href="/index.html"><img src="favicon.ico" alt="Logo Holyverse" class="logosm"></a>
         <nav>
             <a href="/list.html" class="navlink">List Negara</a>
             <a href="/news.html" class="navlink">Berita</a>
