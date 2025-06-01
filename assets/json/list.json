@@ -1,181 +1,216 @@
 [
     {
-        "link" : null,
+        "link" : "/lists/adzeuroniseus.html",
+        "flag" : "/assets/img/flags/adzeuroniseus.webp",
+        "name" : "Adzeuroniseus",
+        "owner" : "albertic",
+        "desc" : "Perserikatan Kudus Adzeuroniseus."
+    },
+    {
+        "link" : "/lists/azlania.html",
         "flag" : "/assets/img/flags/azlania.webp",
         "name" : "Azlania",
         "owner" : "karikenot",
         "desc" : "Sebuah Republik berdiri di Selatan Frisia"
     },
     {
-        "link" : null,
+        "link" : "/lists/cecenistan.html",
         "flag" : "/assets/img/flags/cecenistan.webp",
         "name" : "Cecenistan",
         "owner" : "cecenistan_gg",
         "desc" : "Kingdom Of Cecenistan (Reino De Cecenistan)"
     },
     {
-        "link" : null,
+        "link" : "/lists/ezmr.html",
         "flag" : "/assets/img/flags/ezmr.webp",
         "name" : "Empirie Zeniania And Mytrilonian Republican",
         "owner" : "deathhq_",
         "desc" : "The Galatians Of Empire Zeniania And Mytrilonian Republicans"
     },
     {
-        "link" : null,
+        "link" : "/lists/fs.html",
         "flag" : "/assets/img/flags/fs.webp",
         "name" : "Federated States Of Johbertica",
         "owner" : "th1rd_riotz_real",
         "desc" : "Land of the free and the home of the brave"
     },
     {
-        "link" : null,
+        "link" : "/lists/floranciere.html",
         "flag" : "/assets/img/flags/floranciere.webp",
         "name" : "Florancière",
         "owner" : "khatyusha",
         "desc" : "Basically France rip off"
     },
     {
-        "link" : null,
+        "link" : "/lists/francia.html",
         "flag" : "/assets/img/flags/francia.webp",
         "name" : "Francia",
         "owner" : "elzbthfran",
         "desc" : "Negeri Anggun Berlatar Belakang Banga Franka Dengan Beragam Arsitektur Bersejarah Di Dalamnya"
     },
     {
-        "link" : null,
+        "link" : "/lists/gs.html",
         "flag" : "/assets/img/flags/gs.webp",
         "name" : "Gauryeo Selatan",
         "owner" : "michaelcorleone1863",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/gu.html",
         "flag" : "/assets/img/flags/gu.webp",
         "name" : "Gauryeo Utara",
         "owner" : "michaelcorleone1863",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/potzjieca.html",
         "flag" : "/assets/img/flags/potjieca.webp",
         "name" : "Grand Duchy of Potzjieca",
         "owner" : "minraw",
         "desc" : "Grand Duchy of Potrick-Domzjieca (Graan Dutje du Potrikje-Domzjika)"
     },
     {
-        "link" : null,
+        "link" : "/lists/hefalion.html",
+        "flag" : "/assets/img/flags/hefalion.webp",
+        "name" : "Hefalion",
+        "owner" : "janq72",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/heijriland.html",
+        "flag" : "/assets/img/flags/heijriland.webp",
+        "name" : "Heijriland",
+        "owner" : "terahertz1432",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/hui.html",
         "flag" : "/assets/img/flags/hui.webp",
         "name" : "Hōihon (Hui)",
         "owner" : "haikaru_ch",
         "desc" : "Japanese 🍡🍙 👘 ⛩️🚅🇯🇵🎎🎏🎐🎋🎑🀄"
     },
     {
-        "link" : null,
+        "link" : "/lists/kartiensel.html",
         "flag" : "/assets/img/flags/kartiensel.webp",
         "name" : "Kartiensel",
         "owner" : "dhezy_",
         "desc" : "Finland swedia"
     },
     {
-        "link" : null,
+        "link" : "/lists/kb.html",
         "flag" : "/assets/img/flags/kb.webp",
         "name" : "Kesultanan Banjar",
         "owner" : "marcovanreen",
         "desc" : "Haram Manyarah , Waja Sampai Kaputing "
     },
     {
-        "link" : null,
+        "link" : "/lists/khensia.html",
         "flag" : "/assets/img/flags/khensia.webp",
         "name" : "Ketuanan Khensia/خينسيا",
         "owner" : "hmmmmmmm716",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/krosland.html",
         "flag" : "/assets/img/flags/krosland.webp",
         "name" : "Krosland Democratic Republic",
         "owner" : "kroslandreal",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/lim.html",
+        "flag" : "/assets/img/flags/lim.webp",
+        "name" : "Lim Empire",
+        "owner" : "deumharder",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/nazarick.html",
         "flag" : "/assets/img/flags/nazarick.webp",
         "name" : "Nazarick Socialist Republic",        
         "owner" : "anonymoussuper",
         "desc" : "The biggest communists country"
     },
     {
-        "link" : null,
+        "link" : "/lists/norvanya.html",
         "flag" : "/assets/img/flags/norvanya.webp",
         "name" : "Norvanya",        
         "owner" : "kindly_1",
         "desc" : "The Unitary State of The Sovereign Republic of Norvanya"
     },
     {
-        "link" : null,
+        "link" : "/lists/caresty.html",
         "flag" : "/assets/img/flags/caresty.webp",
         "name" : "Republik Federal Caresty",        
         "owner" : "its.admiral_eren",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/rrk.html",
         "flag" : "/assets/img/flags/rrk.webp",
         "name" : "Republik Rakyat Khazakh",        
         "owner" : "alanibasana_second",
         "desc" : "Kus kis kus klean/Khazakh karkur dadar gulung çik mada"
     },
     {
-        "link" : null,
+        "link" : "/lists/temasek.html",
         "flag" : "/assets/img/flags/temasek.webp",
         "name" : "Republik of Temasek",        
         "owner" : "liebertmann_",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/ro.html",
         "flag" : "/assets/img/flags/ro.webp",
         "name" : "Republik Ottoman",        
         "owner" : "theotownbenefincedt",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/sweriova.html",
         "flag" : "/assets/img/flags/sweriova.webp",
         "name" : "Republic Techocratic Of Sweriova",        
         "owner" : "neptune8765",
         "desc" : "Tëchnökratichë Repüblik öf Sweriöva"
     },
     {
-        "link" : null,
+        "link" : "/lists/thimurstan.html",
         "flag" : "/assets/img/flags/thimurstan.webp",
         "name" : "Republik Thimurstan",        
         "owner" : "hmmmmmmm716",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/rrn.html",
         "flag" : "/assets/img/flags/rrn.webp",
         "name" : "RRN",        
         "owner" : "michaelcorleone1863",
         "desc" : "Negeri tirai bambu"
     },
     {
-        "link" : null,
+        "link" : "/lists/virellia.html",
+        "flag" : "/assets/img/flags/virella.webp",
+        "name" : "The Kingdom of Virellia",        
+        "owner" : "bloody0chan",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/latveria.html",
         "flag" : "/assets/img/flags/latviera.webp",
         "name" : "The United Kingdom of Latveria And New Kartiensel",        
         "owner" : "haffxds.",
         "desc" : "Tidak ada deskripsi"
     },
     {
-        "link" : null,
+        "link" : "/lists/herlica.html",
         "flag" : "/assets/img/flags/herlica.webp",
         "name" : "United Kingdom of great herclain and northern coventry",        
         "owner" : "riberto20",
         "desc" : "Da Biggest Empire"
     },
     {
-        "link" : null,
+        "link" : "/lists/aullen.html",
         "flag" : "/assets/img/flags/aullen.webp",
         "name" : "United Nations of Aullen",        
         "owner" : "alchenpare",

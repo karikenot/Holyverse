@@ -10,6 +10,7 @@ html {
 
 body {
     background-color: rgb(11, 11, 12);
+    color: white;
 }
 
 .headcontain {
@@ -199,4 +200,29 @@ footer {
     justify-content: center;
     font-size: xx-large;
     text-align: center;
+}
+
+.flag-card-container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flag {
+    width:50%;
+    object-fit: contain;
+}
+
+.card {
+    width: 40%;
+}
+
+.info-container {
+    margin: 30px;
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow: auto;
 }
