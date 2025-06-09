@@ -91,6 +91,13 @@
         "desc" : "Japanese 🍡🍙 👘 ⛩️🚅🇯🇵🎎🎏🎐🎋🎑🀄"
     },
     {
+        "link" : "/lists/konisia.html",
+        "flag" : "/assets/img/flags/konisia.webp",
+        "name" : "Islamic State Of Konisia",
+        "owner" : "esbalok_",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
         "link" : "/lists/kartiensel.html",
         "flag" : "/assets/img/flags/kartiensel.webp",
         "name" : "Kartiensel",
@@ -109,6 +116,13 @@
         "flag" : "/assets/img/flags/khensia.webp",
         "name" : "Ketuanan Khensia/خينسيا",
         "owner" : "hmmmmmmm716",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/catlandia.html",
+        "flag" : "/assets/img/flags/Catlandia.webp",
+        "name" : "Kingdom of Catlandia",
+        "owner" : "ivn2003",
         "desc" : "Tidak ada deskripsi"
     },
     {
@@ -140,10 +154,59 @@
         "desc" : "The Unitary State of The Sovereign Republic of Norvanya"
     },
     {
+        "link" : "/lists/cuba.html",
+        "flag" : "/assets/img/flags/cuba.webp",
+        "name" : "Republic de Cuba",
+        "owner" : "abiyuleclerc13_17033",
+        "desc" : "Patria o Muerte, Venceremo!"
+    },
+    {
+        "link" : "/lists/azemlia.html",
+        "flag" : "/assets/img/flags/azemlia.webp",
+        "name" : "Republic of Azemlia",
+        "owner" : "burgerzshot_.",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/slytheria.html",
+        "flag" : "/assets/img/flags/slytheria.webp",
+        "name" : "Republic of Slytheria",
+        "owner" : "rakhablob",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/rcaresty.html",
+        "flag" : "/assets/img/flags/rcaresty.webp",
+        "name" : "Republik Caresty",        
+        "owner" : "its.admiral_eren",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/rdscaresty.html",
+        "flag" : "/assets/img/flags/rdscaresty.webp",
+        "name" : "Republik Demokratik Soviet Caresty",        
+        "owner" : "its.admiral_eren",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
         "link" : "/lists/caresty.html",
         "flag" : "/assets/img/flags/caresty.webp",
         "name" : "Republik Federal Caresty",        
         "owner" : "its.admiral_eren",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/hellenia.html",
+        "flag" : "/assets/img/flags/hellenia.webp",
+        "name" : "Republik Hellenia",        
+        "owner" : "budoxnii",
+        "desc" : "Tidak ada deskripsi"
+    },
+    {
+        "link" : "/lists/koryo.html",
+        "flag" : "/assets/img/flags/koryo.webp",
+        "name" : "Republik Koryo",        
+        "owner" : "zxyab",
         "desc" : "Tidak ada deskripsi"
     },
     {
@@ -208,6 +271,13 @@
         "name" : "United Kingdom of great herclain and northern coventry",        
         "owner" : "riberto20",
         "desc" : "Da Biggest Empire"
+    },
+    {
+        "link" : "/lists/demkraslord.html",
+        "flag" : "/assets/img/flags/uddemkraslord.webp",
+        "name" : "Uni Democratik Demkraslord",        
+        "owner" : "bileks",
+        "desc" : "Tidak ada deskripsi"
     },
     {
         "link" : "/lists/aullen.html",
